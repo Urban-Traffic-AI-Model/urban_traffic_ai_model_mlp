@@ -1,0 +1,17 @@
+# Manipulação e análise de dados
+pandas>=1.5.0
+numpy>=1.25.0
+
+# Machine Learning / Deep Learning
+tensorflow>=2.15.0
+scikit-learn>=1.2.0
+
+# Visualização
+matplotlib>=3.8.0
+seaborn>=0.12.2
+
+# Para acessar dados do Kaggle (caso decida futuramente automatizar download)
+kaggle>=1.5.16
+
+# Para salvar modelos e pipelines
+joblib>=1.3.0
